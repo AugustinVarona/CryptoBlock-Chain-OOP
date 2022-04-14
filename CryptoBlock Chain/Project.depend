@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1619186071 source:c:\users\augustin\downloads\tema poo\cryptoblock.cpp
+	<iostream>
+	<algorithm>
+	<ctime>
+	"CryptoBlock.h"
+
+1619186071 c:\users\augustin\downloads\tema poo\cryptoblock.h
+	<iostream>
+	<algorithm>
+	<ctime>
+	"Transaction.h"
+
+1619186071 c:\users\augustin\downloads\tema poo\transaction.h
+	<iostream>
+
+1619186071 source:c:\users\augustin\downloads\tema poo\cryptoblockchain.cpp
+	<iostream>
+	<vector>
+	"CryptoBlockchain.h"
+
+1619186071 c:\users\augustin\downloads\tema poo\cryptoblockchain.h
+	<iostream>
+	<vector>
+	"CryptoBlock.h"
+
+1619004378 source:c:\users\augustin\downloads\tema poo\main.cpp
+	<iostream>
+	<vector>
+	<ctime>
+	<algorithm>
+	"CryptoBlockchain.h"
+
+1619184295 source:c:\users\augustin\downloads\tema poo\transaction.cpp
+	<iostream>
+	"Transaction.h"
+
